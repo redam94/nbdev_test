@@ -17,7 +17,7 @@ pip install nbdev_test
 Fill me in please! Don’t forget code examples:
 
 ``` python
-1+1
+say_hello("Matthew")
 ```
 
-    2
+    'Hello Matthew!'
